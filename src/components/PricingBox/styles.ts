@@ -92,8 +92,6 @@ export const BenefitsList = styled.div`
   }
 `
 
-export const BenefitsItem = styled.li``
-
 export const ButtonFullPrice = styled.span`
   ${({ theme }) => css`
     text-decoration: line-through;
